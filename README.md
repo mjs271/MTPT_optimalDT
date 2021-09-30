@@ -12,3 +12,5 @@ Benson, and Diogo Bolster.
 - The `2DnoFlow` directory contains the Matlab code to generate the results discussed in Section 3.3, **2D constant velocity**.
 
 - The `2DshearFlow` directory contains the Matlab code to generate the results discussed in Section 3.4, **2D linear shear flow**.
+
+[![DOI](https://zenodo.org/badge/294134349.svg)](https://zenodo.org/badge/latestdoi/294134349)
